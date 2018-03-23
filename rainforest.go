@@ -1,4 +1,4 @@
-package rainforest // import "githib.com/elemir/rainforest"
+package rainforest
 
 import (
 	"fmt"
